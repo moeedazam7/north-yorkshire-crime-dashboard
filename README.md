@@ -10,24 +10,24 @@ The dashboard uses a pre-cleaned dataset:
 
 ---
 
-## 📌 Features
+## Features
 
-### 🔍 Filters
+### Filters
 - Select crime **year** and **crime types** from sidebar
 - Download filtered dataset as CSV
 
-### 🔹 Overview Tab
+### Overview Tab
 - Top 10 crime types
 - Top 10 specific locations
 - Monthly crime trend plot
 
-### 📈 Time Series Forecast
+### Time Series Forecast
 - Forecast future monthly crime volume using exponential smoothing
 
-### 📉 Regression Analysis
+### Regression Analysis
 - Linear regression to analyze long-term crime volume trend
 
-### 🗺️ Crime Map
+### Crime Map
 - Map of crime incidents by location using latitude/longitude data
 
 ---
