@@ -32,7 +32,7 @@ The dashboard uses a pre-cleaned dataset:
 
 ---
 
-## 🚀 Deployment
+## Deployment
 Deployed via **Streamlit Cloud**  
 [🔗 Click to view live app](https://north-yorkshire-crime-dashboard-uhyw2ykj8etdcmtvrdahsy.streamlit.app/)
 
